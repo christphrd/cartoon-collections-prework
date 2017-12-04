@@ -19,4 +19,5 @@ def find_the_cheese(strings)
     nil
   else
     nil
+  end
 end
